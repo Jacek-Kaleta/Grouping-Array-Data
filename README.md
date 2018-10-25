@@ -1,6 +1,7 @@
 # Grouping-Array-Data
 
 Output:
+
     1- 2- 3- 4- 9
     1- 2- 3- 5- 2
     1- 2- 4- 4- 9
